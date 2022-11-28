@@ -13,3 +13,5 @@ data folder contains:
 - 4 files downloaded from the api:
 CEPC and CEPC Recommendations for both postal codes EC***** and WS***** (note: 5000 first entries)
 - output.csv : our result database export.
+
+Required: Python3, Jupyter Notebook, Selenium, Google WebDriver, Pandas
